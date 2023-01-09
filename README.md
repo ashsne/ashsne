@@ -4,13 +4,6 @@ I am a Powertrain Engineer turned Data Scientist and passionate about automotive
 Currently, I am working as a Senior Data Scientist at Thoughtworks Finland.
 
 
-Find more information about me:
-- LinkedIn: [ashish-khatke](https://www.linkedin.com/in/ashish-khatke/)
-- Email: khatkeashish@gmail.com
-
-
-
-
 <!---
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
