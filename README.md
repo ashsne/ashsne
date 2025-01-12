@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Powertrain Engineer turned Data Scientist and passionate about automotive engineering, artificial intelligence, machine learning and control systems.
-Currently, I am working as a Senior Data Scientist at Thoughtworks Finland.
+Currently, I am working as a Lead Data Scientist at Futurice.
 
 
 <!---
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-ashsne/ashsne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+khatkeashish/khatkeashish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
